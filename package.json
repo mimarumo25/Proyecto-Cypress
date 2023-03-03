@@ -1,0 +1,16 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:ui": "cypress open",
+    "test:headleees": "cypress run --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
